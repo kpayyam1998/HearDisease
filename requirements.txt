@@ -6,5 +6,5 @@ matplotlib
 flask 
 catboost
 xgboost
-mlflow=2.11.3
+mlflow==2.11.3
 -e .
