@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: HeartDiseasePrediction
+Version: 0.0.0
+Author: kp
+Author-email: kp@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: flask
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: mlflow

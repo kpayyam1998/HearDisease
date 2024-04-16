@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: rgb(7, 253, 64);">
+    {% if final_result is defined %}
+    <div class="result">
+        {% if final_result == 0 %}
+            <center><h1><p>No heart disease detected</p></h1></center>
+        {% else %}
+            <center><h1><p >Suffering from heart disease</p></h1></center>
+        {% endif %}
+    </div>
+{% endif %}
+</body>
+</html>

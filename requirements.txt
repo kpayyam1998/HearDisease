@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+flask 
+catboost
+xgboost
+mlflow=2.11.3
+-e .
