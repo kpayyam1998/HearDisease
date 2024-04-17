@@ -13,3 +13,11 @@ install : pip install -r requirements.txt
 ```bash
 py app.py
 ```
+### Deployment steps
+
+```bash
+create one webapp 
+link with your github account 
+select your repo 
+create .it will automatically deployed.
+```
